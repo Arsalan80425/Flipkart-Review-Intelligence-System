@@ -4,6 +4,14 @@ A data-driven application that analyzes Flipkart product reviews to extract insi
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview 1](https://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review1.png)
+![Dashboard Preview 2](https://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review2.png)
+![Dashboard Preview 3](http://raw.githubusercontent.com/Arsalan80425/Flipkart-Review-Intelligence-System/refs/heads/main/Review3.png)
+
+---
+
 ## 🚀 Features
 
 - **Sentiment Analysis** – Classifies reviews into positive, negative, and neutral.
@@ -22,23 +30,6 @@ A data-driven application that analyzes Flipkart product reviews to extract insi
   - Scikit-learn, NLTK, TextBlob – NLP & sentiment analysis
   - Matplotlib, Seaborn, Plotly – Data visualization
   - Flask / Streamlit – Web interface *(if applicable)*
-
----
-
-## 📂 Project Structure
-
-```
-Flipkart-Review-Intelligence-System/
-│
-├── data/                # Raw and processed datasets
-├── notebooks/           # Jupyter notebooks for experiments
-├── src/                 # Main source code
-│   ├── preprocessing.py # Data cleaning scripts
-│   ├── analysis.py      # Sentiment & keyword extraction
-│   └── visualization.py # Plotting and dashboard code
-├── README.md            # Project documentation
-└── requirements.txt     # Required dependencies
-```
 
 ---
 
