@@ -98,4 +98,6 @@ This project is licensed under the MIT License.
 
 **Author:** Arsalan Shaikh\
 🔗 [GitHub Profile](https://github.com/Arsalan80425)
+🔗 [LinkedIn Profile](http://www.linkedin.com/in/mohammed-arsalan-58543a305)
+📧 [Email ID](arsalanshaikh0408@gmail.com)
 
