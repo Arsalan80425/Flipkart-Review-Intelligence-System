@@ -1,0 +1,11 @@
+streamlit
+pandas
+selenium
+textblob
+transformers
+torch
+sentencepiece
+scikit-learn
+plotly
+matplotlib
+wordcloud
